@@ -1,5 +1,4 @@
 module.exports = {
-  pathPrefix: '/portfolio',
   siteMetadata: {
     // Site URL for when it goes live
     siteUrl: 'https://fournierp.github.io/portfolio/',
