@@ -2,7 +2,7 @@ module.exports = {
   pathPrefix: '/devfolio',
   siteMetadata: {
     // Site URL for when it goes live
-    // siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
+    siteUrl: 'https://fournierp.github.io/portfolio/',
     // Your Name
     name: 'Paul Fournier',
     // Main Site Title
