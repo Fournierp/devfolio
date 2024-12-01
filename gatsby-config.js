@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "portfolio",
   siteMetadata: {
     // Site URL for when it goes live
     siteUrl: 'https://fournierp.github.io/portfolio/',
@@ -98,7 +99,7 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'Python, Tensorflow, PyTorch, OpenCV
+          'Python, Tensorflow, PyTorch, OpenCV',
       },
       {
         name: 'Other',
